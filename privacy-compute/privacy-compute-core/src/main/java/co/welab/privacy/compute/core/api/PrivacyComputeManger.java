@@ -3,7 +3,7 @@ package co.welab.privacy.compute.core.api;
 import co.welab.privacy.compute.core.crypto.DHKeyAgreementHelper;
 import co.welab.privacy.compute.core.crypto.MyPublicKey;
 import co.welab.privacy.compute.core.utils.HttpClientUtil;
-import com.alibaba.fastjson.JSONObject;
+import com.alibaba.fastjson2.JSONObject;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import java.security.KeyPair;
